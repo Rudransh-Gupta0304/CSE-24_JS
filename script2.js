@@ -1,5 +1,5 @@
-console.log("hello world")
-document.write("hello world")
+// console.log("hello world")
+// document.write("hello world")
 
 // when variable dont store any value is known to be undefined(type hi clear nhi hoga)
 // null is a value but it cant hold anything just to avoid the garbage.
