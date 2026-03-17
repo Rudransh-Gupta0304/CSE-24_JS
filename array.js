@@ -6,7 +6,7 @@ let collection = {
 
 }
 
-// var trainerinfo = ["jitendra" , 29,"ghaziabad" , (isMarried:true)];
+var trainerinfo = ["jitendra" , 29,"ghaziabad"];
 
 
 
