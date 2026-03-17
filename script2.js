@@ -20,6 +20,10 @@
 // reference (object)type ----> collection of name and value 
 // exapmple --> array , function , obejct .
 
+// getelementbyid --> to acces the elements with the specific id
+
+// innerHTMl - property to get or set the content of an element.
+
 // for reusability we create the function..    baar baar use karne ke liye.
 
 //   ( = ) to assign the value 
@@ -28,3 +32,11 @@
 
 // arrow function is an anonymous function  ==> (it is a function in a variable)
 
+
+
+//  js can change all the html elements in the page.
+//  js can change all the html attributes . 
+//  js can chnage all the css style on the page.
+//  js can remove all the existing html elements and attributes .
+//  js can react to the all the existing event. 
+//  js can create a new html event on the page. 
