@@ -18,10 +18,24 @@
 // }
 
 
-function myFunction(){
-    alert("hello world");
-}
+// function myFunction(){
+//     alert("hello world");
+// }
 
-function sayHello(name ,age){
-    document.write(name + " is " + age + " years old ");
-}
+// function sayHello(name ,age){
+//     document.write(name + " is " + age + " years old ");
+// }
+
+
+// function add(x , y){
+//     return x+y;
+// }
+
+
+// (arrow function)
+
+// let add = (x , y) => { return x+y };
+// console.log(8+9);
+
+
+

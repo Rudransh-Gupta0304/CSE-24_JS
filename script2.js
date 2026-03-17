@@ -26,3 +26,5 @@
 //   ( == ) to compare the value 
 //   ( === ) strict type checking
 
+// arrow function is an anonymous function  ==> (it is a function in a variable)
+
