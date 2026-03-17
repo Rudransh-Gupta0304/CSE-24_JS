@@ -37,7 +37,6 @@ e.innerHTML = "this is the updated one";
 let parent = document.getElementsByTagName("body");
 par[0].appeend(e);
 
-
 //  to remove something...
 e.remove();
 
