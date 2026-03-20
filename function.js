@@ -57,6 +57,8 @@ person2.age = 35;
 person2.isMarried = true ;
 person2.address = {};
 person2.address.street = "vijay nagar";
-// format change krke bhi likh skte hai square bracket me krke 
+
 person2['address']['flatNO'] = 33;
 console.log()
+
+// format change krke bhi likh skte hai square bracket me krke 

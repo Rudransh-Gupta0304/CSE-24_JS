@@ -40,3 +40,11 @@
 //  js can remove all the existing html elements and attributes .
 //  js can react to the all the existing event. 
 //  js can create a new html event on the page. 
+
+
+
+// asynchronous programming
+
+// two are there 
+// 1----> Promise
+// 2-----> await,
